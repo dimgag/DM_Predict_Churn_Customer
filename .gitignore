@@ -1,2 +1,6 @@
 # Ignore macos files
 .DS_Store
+
+# Ignore example folder
+example/*
+example
