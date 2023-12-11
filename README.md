@@ -59,5 +59,5 @@ The data is represented by types of variables:
 ### D. Customers who left within the last month: 
 | Variable |
 | --- |
-Churn (yes, no) 
+|Churn (yes, no)|
   

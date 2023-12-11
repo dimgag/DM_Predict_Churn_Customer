@@ -1,6 +1,9 @@
 # Ignore macos files
 .DS_Store
 
-# Ignore example folder
+# Folders to ignore
 example/*
 example
+draft
+
+
